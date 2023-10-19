@@ -16,8 +16,8 @@ This repository contains the code and documentation for a Seizure Detection Syst
 
 ## Project Phases
 
-- [**Phase 1: Data Acquisition and Preprocessing**](phase1/README.md)
-    - In this phase, the focus is on collecting and preparing the dataset for further analysis. We acquire EEG data from the [CHB-MIT Scalp EEG Database](https://physionet.org/content/chbmit/1.0.0/) and preprocess it to extract useful features.
+- [**Phase 1: Data Acquisition and Preprocessing**](Phase1_README.md)
+    - In this phase, the focus is on collecting and preparing the dataset for further analysis. We acquire EEG data from the [CHB-MIT Scalp EEG Database](https://physionet.org/content/chbmit/1.0.0/) and preprocess it to extract useful features And took a look on how these features are by running three classification methods on them.
 
 - [**Phase 2: Feature Engineering and Selection**](phase2/README.md)
     - Phase 2 concentrates on feature engineering, where we extract relevant features from EEG data. The README for this phase provides insights into the feature extraction process and the selected features that are deemed significant for detecting seizures.
@@ -33,9 +33,9 @@ The overarching goal of this project is to develop a seizure detection system th
 
 Each phase has its own README file with detailed instructions and code to follow. You can navigate to the respective phase's README for specific information and implementation details.
 
-1. Start with [Phase 1](phase1/README.md) to learn about data acquisition and preprocessing.
-2. Move on to [Phase 2](phase2/README.md) to understand the feature engineering process.
-3. Finally, explore [Phase 3](phase3/README.md) to see the implementation of the neural network and the presentation of results.
+1. Start with [Phase 1](Phase1_README.md) to learn about data acquisition and preprocessing.
+2. Move on to [Phase 2](Phase2_README.md) to understand the feature engineering process.
+3. Finally, explore [Phase 3](Phase3_README.md) to see the implementation of the neural network and the presentation of results.
 
 The project is organized into separate notebooks, and you can follow along with each phase to build a comprehensive seizure detection system.
 

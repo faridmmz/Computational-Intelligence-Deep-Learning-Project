@@ -37,6 +37,7 @@ In this phase, we extracted features from the EEG signals. The feature categorie
 - **LBP-based features**: Local Binary Pattern (LBP) features.
 - **Time Domain**: Features derived from the time domain analysis.
 - **Frequency Domain**: Features derived from the frequency domain analysis.
+
 Our goal was to implement at least 15 features from a combination of these categories to represent the EEG signals effectively.
 
 
@@ -47,6 +48,7 @@ After extracting features, we performed classification using three different alg
 - **Support Vector Machine (SVM)** with linear, sigmoid, rbf, and poly kernels.
 - **Random Forest (RF)** with varying maximum depths and random states.
 - **K-Nearest Neighbors (KNN)** with different numbers of neighbors and weight settings.
+
 To evaluate the performance of each algorithm, we employed k-fold cross-validation (k=5) and then calculated Accuracy, Precision and Recall for each one.
 
 ## Conclusion
