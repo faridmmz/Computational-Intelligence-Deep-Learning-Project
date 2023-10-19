@@ -10,7 +10,7 @@ This repository contains the code and documentation for a Seizure Detection Syst
 ## Table of Contents
 
 - [Project Phases](#project-Phases)
-- [Project-Goals](#project-Goals)
+- [Project Goals](#project-Goals)
 - [How to Use the Project](#how-to-Use-the-Project)
 - [Contributors](#contributors)
 
@@ -19,10 +19,10 @@ This repository contains the code and documentation for a Seizure Detection Syst
 - [**Phase 1: Data Acquisition and Preprocessing**](Phase1_README.md)
     - In this phase, the focus is on collecting and preparing the dataset for further analysis. We acquire EEG data from the [CHB-MIT Scalp EEG Database](https://physionet.org/content/chbmit/1.0.0/) and preprocess it to extract useful features And took a look on how these features are by running three classification methods on them.
 
-- [**Phase 2: Feature Engineering and Selection**](phase2/README.md)
+- [**Phase 2: Feature Engineering and Selection**](Phase2_README.md)
     - Phase 2 concentrates on feature engineering, where we extract relevant features from EEG data. The README for this phase provides insights into the feature extraction process and the selected features that are deemed significant for detecting seizures.
 
-- [**Phase 3: Neural Network Implementation**](phase3/README.md)
+- [**Phase 3: Neural Network Implementation**](Phase3_README.md)
     - In this phase, a neural network, specifically a Convolutional Neural Network (CNN), is implemented for the classification of EEG data into seizure and non-seizure classes.
 
 ## Project Goals
