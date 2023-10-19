@@ -2,7 +2,7 @@
 **"Welcome to the neural network 'hidden layers.' Let's 'backpropagate' into the world of AI together!**
 # Seizure Detection System Project
 
-This repository contains the code and documentation for a Seizure Detection System project, which aims to develop a machine learning model to detect epileptic seizures in patient data. The project consists of multiple phases, each addressing specific tasks and challenges in the development of a robust and effective seizure detection system Which is done by Faridreza Momtaz Zandi and Mehrnaz Sadeghie and is one of our most proud university projects. 
+This repository contains the code and documentation for a Seizure Detection System project, which aims to develop a machine learning model to detect epileptic seizures in patient data. The project consists of multiple phases, each addressing specific tasks and challenges in the development of a robust and effective seizure detection system Which is done by Faridreza Momtaz Zandi and Mehrnaz Sadeghieh and is one of our most proud university projects. 
 
 ![Photo by <a href="https://unsplash.com/@growtika?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Growtika</a> on <a href="https://unsplash.com/photos/an-abstract-image-of-a-sphere-with-dots-and-lines-nGoCBxiaRO0?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   ](https://github.com/faridmmz/Computational-Intelligence-Deep-Learning-Project/blob/main/README_image.jpg "Photo by Growtika on Unsplash")
@@ -44,7 +44,7 @@ The project is organized into separate notebooks, and you can follow along with 
 This project was developed by:
 
 - Faridreza Momtaz Zandi
-- Mehrnaz Sadeghie
+- Mehrnaz Sadeghieh
 
 **"That's a wrap for our neural network expedition! Remember, in the world of AI, we're 'weights' and 'biases' to success" See you in the next 'epoch.'**
 
